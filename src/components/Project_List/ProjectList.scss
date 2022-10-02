@@ -1,0 +1,14 @@
+.projectlist {
+  font-size: 1.1rem;
+  text-transform: capitalize;
+  margin-right: 30px;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 10px;
+  transition: all 0.5s ease;
+
+  &.active {
+    background-color: black;
+    color: white;
+  }
+}
