@@ -73,7 +73,7 @@ const Data = () => {
       <p className="home__desciption">
         I am <i>SANTOSH</i> , Im from Nepal, a small city called
         Jaleshwor,Mahottari. Since 3 years I am working as
-        <b> Developer/IT Support, </b>
+        <b> Software Developer/IT Support, </b>
         <a className="goto-edu" href="#qualification">
           for experience click here!
         </a>

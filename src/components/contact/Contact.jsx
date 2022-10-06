@@ -25,12 +25,12 @@ const Contact = () => {
 
       <div className="contact__container grid">
         <div className="contact__content">
-          <h3 className="contact__title">talk to me</h3>
+          <h3 className="contact__title">Contact through</h3>
           <div className="contact__info">
             <div className="contact__card">
               <i className="bx bxl-gmail contact__card-icon"></i>
               <h3 className="cantact__card-title">Email</h3>
-              <span className="contact__card-data">test@gmail.com</span>
+              <span className="contact__card-data">santosh_shah25@hotmail.com</span>
 
               <a
                 href="mailto:shahnema77@gmail.com"
@@ -38,7 +38,7 @@ const Contact = () => {
                 target="_blank"
                 className="contact__button"
               >
-                write me
+                email me
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
             </div>
@@ -46,7 +46,7 @@ const Contact = () => {
             <div className="contact__card">
               <i className="bx bxl-whatsapp contact__card-icon"></i>
               <h3 className="cantact__card-title">WhatsApp</h3>
-              <span className="contact__card-data">+977123456789</span>
+              <span className="contact__card-data">+9779812008477</span>
 
               <a
                 href="https://api.whatsapp.com/send?phone=+9779812008477&text=Hello, more informatin"
@@ -54,7 +54,7 @@ const Contact = () => {
                 target="_blank"
                 className="contact__button"
               >
-                write me
+                msg me
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
             </div>
@@ -62,7 +62,7 @@ const Contact = () => {
             <div className="contact__card">
               <i className="bx bx-chat contact__card-icon"></i>
               <h3 className="cantact__card-title">Messenger</h3>
-              <span className="contact__card-data">test.facebook</span>
+              <span className="contact__card-data">San Tos</span>
 
               <a
                 href="https://www.facebook.com/sajiloLearn1999"
@@ -70,7 +70,7 @@ const Contact = () => {
                 target="_blank"
                 className="contact__button"
               >
-                write me
+                msg me
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
             </div>
@@ -118,7 +118,7 @@ const Contact = () => {
             </div>
 
             <button className="button button--flex">
-              Send query
+              Send
               <svg
                 class="button__icon"
                 xmlns="http://www.w3.org/2000/svg"

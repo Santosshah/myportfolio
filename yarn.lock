@@ -1118,7 +1118,7 @@
     "postcss-value-parser" "^4.2.0"
 
 "@csstools/postcss-ic-unit@^1.0.1":
-  "integrity" "sha512-Ot1rcwRAaRHNKC9tAqoqNZhjdYBzKk1POgWfhN4uCOE47ebGcLRqXjKkApVDpjifL6u2/55ekkpnFcp+s/OZUw=="
+  "integrity" "sha512-Ot1rcwRAaRHNKC9tAqoqNZhjdYBzKk1POgWfhN4uCOE47ebGBgMainqXjKkApVDpjifL6u2/55ekkpnFcp+s/OZUw=="
   "resolved" "https://registry.npmjs.org/@csstools/postcss-ic-unit/-/postcss-ic-unit-1.0.1.tgz"
   "version" "1.0.1"
   dependencies:
@@ -2764,7 +2764,7 @@
   "version" "0.3.8"
 
 "babel-plugin-polyfill-corejs2@^0.3.2":
-  "integrity" "sha512-LPnodUl3lS0/4wN3Rb+m+UK8s7lj2jcLRrjho4gLw+OJs+I4bvGXshINesY5xx/apM+biTnQ9reDI8yj+0M5+Q=="
+  "integrity" "sha512-LPnodUl3lS0/4wN3Rb+m+UK8s7lj2jBgMainrjho4gLw+OJs+I4bvGXshINesY5xx/apM+biTnQ9reDI8yj+0M5+Q=="
   "resolved" "https://registry.npmjs.org/babel-plugin-polyfill-corejs2/-/babel-plugin-polyfill-corejs2-0.3.2.tgz"
   "version" "0.3.2"
   dependencies:
